@@ -1,0 +1,5 @@
+MODULE first_a
+	SUBMODULE mod7Counter
+		INSTANCE XLXI_1
+	SUBMODULE eightBitFullAdder
+		INSTANCE XLXI_5

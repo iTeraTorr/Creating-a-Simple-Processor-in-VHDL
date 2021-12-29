@@ -1,0 +1,8 @@
+xst -intstyle ise -ifn "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/fulladder.xst" -ofn "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/fulladder.syr" 
+xst -intstyle ise -ifn "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/fulladder.xst" -ofn "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/fulladder.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-vq100-4 "fulladder.ngc" fulladder.ngd  
+map -intstyle ise -p xc3s50-vq100-4 -cm area -ir off -pr off -c 100 -o fulladder_map.ncd fulladder.ngd fulladder.pcf 
+par -w -intstyle ise -ol high -t 1 fulladder_map.ncd fulladder.ncd fulladder.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml fulladder.twx fulladder.ncd -o fulladder.twr fulladder.pcf 
+vhdtdtfi -lib work fulladder.vhd -prj SimpleProcessorProject -o fulladder.spl -module fulladder -template C:/Xilinx/13.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3 fulladder.spl {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/fulladder.sym} 

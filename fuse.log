@@ -1,0 +1,38 @@
+Running: C:\Xilinx\13.3\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/first_a_revised_first_a_revised_sch_tb_isim_beh.exe -prj C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/first_a_revised_first_a_revised_sch_tb_beh.prj work.first_a_revised_first_a_revised_sch_tb 
+ISim O.76xd (signature 0xc3576ebc)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/fulladder.vhd" into library work
+Parsing VHDL file "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/MUX_2x1.vhf" into library work
+Parsing VHDL file "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/mod8counter.vhf" into library work
+Parsing VHDL file "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.vhf" into library work
+Parsing VHDL file "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/first_a_revised.vhf" into library work
+Parsing VHDL file "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/first_a_revised_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package vcomponents
+Compiling architecture behavioral of entity fulladder [fulladder_default]
+Compiling architecture xor2_v of entity XOR2 [xor2_default]
+Compiling architecture and2_v of entity AND2 [and2_default]
+Compiling architecture behavioral of entity eightBitFullAdder_MUSER_first_a_revised [eightbitfulladder_muser_first_a_...]
+Compiling architecture or2_v of entity OR2 [or2_default]
+Compiling architecture inv_v of entity INV [inv_default]
+Compiling architecture behavioral of entity MUX_2x1_MUSER_first_a_revised [mux_2x1_muser_first_a_revised_de...]
+Compiling architecture fdc_v of entity FDC [\FDC('0')\]
+Compiling architecture behavioral of entity FTC_MXILINX_first_a_revised [\FTC_MXILINX_first_a_revised('0'...]
+Compiling architecture behavioral of entity mod8counter_MUSER_first_a_revised [mod8counter_muser_first_a_revise...]
+Compiling architecture nor2_v of entity NOR2 [nor2_default]
+Compiling architecture and2b1_v of entity AND2B1 [and2b1_default]
+Compiling architecture and3b2_v of entity AND3B2 [and3b2_default]
+Compiling architecture behavioral of entity first_a_revised [first_a_revised_default]
+Compiling architecture behavioral of entity first_a_revised_first_a_revised_...
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 33 VHDL Units
+Built simulation executable C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/first_a_revised_first_a_revised_sch_tb_isim_beh.exe
+Fuse Memory Usage: 47252 KB
+Fuse CPU Usage: 1249 ms

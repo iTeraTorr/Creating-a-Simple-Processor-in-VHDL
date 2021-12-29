@@ -1,0 +1,22 @@
+V3 9
+FL "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/ClockedProcessTb.vhd" 2020/06/04.21:41:33 O.76xd
+EN work/ClockedProcessTb 0 \
+      FL "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/ClockedProcessTb.vhd" \
+      PB ieee/std_logic_1164 1317710503 PB ieee/NUMERIC_STD 1317710508
+AR work/ClockedProcessTb/Behavioral 0 \
+      FL "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/ClockedProcessTb.vhd" \
+      EN work/ClockedProcessTb 0 AR work/DFF/rtl 1591332545
+FL "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/DFF.vhd" 2020/06/04.21:28:55 O.76xd
+EN work/DFF 1591332544 \
+      FL "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/DFF.vhd" \
+      PB ieee/std_logic_1164 1317710503
+AR work/DFF/rtl 1591332545 \
+      FL "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/DFF.vhd" \
+      EN work/DFF 1591332544
+FL "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/fulladder.vhd" 2020/06/04.16:22:57 O.76xd
+EN work/fulladder 1591278561 \
+      FL "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/fulladder.vhd" \
+      PB ieee/std_logic_1164 1317710503
+AR work/fulladder/Behavioral 1591278562 \
+      FL "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/fulladder.vhd" \
+      EN work/fulladder 1591278561

@@ -1,0 +1,5 @@
+AR dff rtl "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/DFF.vhd" sub00/vhpl03 1591332545
+EN dff NULL "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/DFF.vhd" sub00/vhpl02 1591332544
+EN fulladder NULL "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/fulladder.vhd" sub00/vhpl00 1591278561
+EN clockedprocesstb NULL "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/ClockedProcessTb.vhd" sub00/vhpl04 1591332546
+AR fulladder behavioral "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/fulladder.vhd" sub00/vhpl01 1591278562

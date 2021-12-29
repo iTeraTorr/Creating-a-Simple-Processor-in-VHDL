@@ -1,0 +1,2 @@
+sch2hdl -intstyle ise -family spartan3 -flat -suppress -vhdl first_e_drc.vhf -w {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/first_e.sch} 
+sch2hdl -intstyle ise -family spartan3 -flat -suppress -vhdl first_e_drc.vhf -w {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/first_e.sch} 

@@ -1,0 +1,3 @@
+vhdtdtfi -lib work DFF.vhd -prj SimpleProcessorProject -o DFF.spl -module DFF -template C:/Xilinx/13.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3 DFF.spl {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/DFF.sym} 
+vhdtdtfi -prj SimpleProcessorProject -o "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/DFF.vhi" -module DFF -template C:/Xilinx/13.3/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work DFF.vhd 

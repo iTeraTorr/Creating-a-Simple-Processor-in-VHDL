@@ -1,0 +1,2 @@
+vhdl isim_temp "mod7Counter.vhf"
+vhdl isim_temp "mod7counter_tb.vhd"

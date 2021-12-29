@@ -1,0 +1,29 @@
+Command line:
+   first_g_first_g_sch_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  50682
+
+Sat Jun 06 13:38:35 2020
+
+
+ Elaboration Time: 0.015625 sec
+
+ Current Memory Usage: 5154.93 Meg
+
+ Total Signals          : 332
+ Total Nets             : 124
+ Total Signal Drivers   : 74
+ Total Blocks           : 73
+ Total Primitive Blocks : 59
+ Total Processes        : 73
+ Total Traceable Variables  : 28
+ Total Scalar Nets and Variables : 622
+Total Line Count : 104
+
+ Total Simulation Time: 0.578125 sec
+
+ Current Memory Usage: 5469.51 Meg
+
+Sat Jun 06 13:39:22 2020
+

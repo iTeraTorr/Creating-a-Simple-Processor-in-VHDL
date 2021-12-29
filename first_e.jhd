@@ -1,0 +1,5 @@
+MODULE first_e
+	SUBMODULE mod8counter
+		INSTANCE XLXI_1
+	SUBMODULE eightBitFullAdder
+		INSTANCE XLXI_4

@@ -1,0 +1,17 @@
+sch2hdl -intstyle ise -family spartan3 -flat -suppress -vhdl eightBitFullAdder_drc.vhf -w {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sch} 
+sch2hdl -intstyle ise -family spartan3 -flat -suppress -vhdl eightBitFullAdder_drc.vhf -w {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sch} 
+sch2hdl -intstyle ise -family spartan3 -flat -suppress -vhdl eightBitFullAdder_drc.vhf -w {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sch} 
+sch2hdl -intstyle ise -family spartan3 -flat -suppress -vhdl eightBitFullAdder_drc.vhf -w {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sch} 
+sch2hdl -intstyle ise -family spartan3 -flat -suppress -vhdl eightBitFullAdder_drc.vhf -w {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sch} 
+sch2sym -intstyle ise -family spartan3 -refsym eightBitFullAdder {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sch} {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sym} 
+sch2hdl -intstyle ise -family spartan3 -flat -suppress -vhdl eightBitFullAdder_drc.vhf -w {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sch} 
+sch2sym -intstyle ise -family spartan3 -refsym eightBitFullAdder {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sch} {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sym} 
+sch2sym -intstyle ise -family spartan3 -refsym eightBitFullAdder {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sch} {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sym} 
+sch2hdl -intstyle ise -family spartan3 -flat -suppress -vhdl eightBitFullAdder.vhf -w {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sch} 
+sch2sym -intstyle ise -family spartan3 -w -refsym eightBitFullAdder {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sch} {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sym} 
+sch2sym -intstyle ise -family spartan3 -w -refsym eightBitFullAdder {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sch} {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sym} 
+sch2hdl -intstyle ise -family spartan3 -flat -suppress -vhdl eightBitFullAdder_drc.vhf -w {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sch} 
+sch2hdl -intstyle ise -family spartan3 -flat -suppress -vhdl eightBitFullAdder_drc.vhf -w {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sch} 
+sch2sym -intstyle ise -family spartan3 -w -refsym eightBitFullAdder {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sch} {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sym} 
+sch2sym -intstyle ise -family spartan3 -w -refsym eightBitFullAdder {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sch} {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sym} 
+sch2hdl -intstyle ise -family spartan3 -flat -suppress -vhdl eightBitFullAdder_drc.vhf -w {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/eightBitFullAdder.sch} 

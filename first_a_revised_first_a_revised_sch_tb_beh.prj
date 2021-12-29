@@ -1,0 +1,6 @@
+vhdl work "fulladder.vhd"
+vhdl work "MUX_2x1.vhf"
+vhdl work "mod8counter.vhf"
+vhdl work "eightBitFullAdder.vhf"
+vhdl work "first_a_revised.vhf"
+vhdl work "first_a_revised_tb.vhd"

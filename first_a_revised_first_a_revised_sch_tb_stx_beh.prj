@@ -1,0 +1,5 @@
+vhdl isim_temp "fulladder.vhd"
+vhdl isim_temp "MUX_2x1.vhf"
+vhdl isim_temp "mod8counter.vhf"
+vhdl isim_temp "eightBitFullAdder.vhf"
+vhdl isim_temp "first_a_revised_tb.vhd"

@@ -1,0 +1,2 @@
+vhdl isim_temp "ClockedProcessTb.vhd"
+vhdl isim_temp "DFF.vhd"

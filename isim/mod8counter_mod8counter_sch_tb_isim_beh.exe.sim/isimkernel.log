@@ -1,0 +1,29 @@
+Command line:
+   mod8counter_mod8counter_sch_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  56881
+
+Fri Jun 05 11:31:04 2020
+
+
+ Elaboration Time: 0.015625 sec
+
+ Current Memory Usage: 5154.36 Meg
+
+ Total Signals          : 84
+ Total Nets             : 43
+ Total Signal Drivers   : 15
+ Total Blocks           : 15
+ Total Primitive Blocks : 10
+ Total Processes        : 15
+ Total Traceable Variables  : 20
+ Total Scalar Nets and Variables : 533
+Total Line Count : 25
+
+ Total Simulation Time: 2.01563 sec
+
+ Current Memory Usage: 4682.5 Meg
+
+Fri Jun 05 12:03:25 2020
+

@@ -1,0 +1,2 @@
+sch2hdl -intstyle ise -family spartan3 -flat -suppress -vhdl MUX_2x1_drc.vhf -w {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/MUX_2x1.sch} 
+sch2sym -intstyle ise -family spartan3 -w -refsym MUX_2x1 {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/MUX_2x1.sch} {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/MUX_2x1.sym} 

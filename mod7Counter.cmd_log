@@ -1,0 +1,2 @@
+sch2hdl -intstyle ise -family spartan3 -flat -suppress -vhdl mod7Counter_drc.vhf -w {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/mod7Counter.sch} 
+sch2sym -intstyle ise -family spartan3 -w -refsym mod7Counter {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/mod7Counter.sch} {C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/mod7Counter.sym} 

@@ -1,0 +1,3 @@
+vhdl isim_temp "MUX_2x1.vhf"
+vhdl isim_temp "mod8counter.vhf"
+vhdl isim_temp "first_g_tb.vhd"
